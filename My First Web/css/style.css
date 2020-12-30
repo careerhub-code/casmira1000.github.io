@@ -1,0 +1,70 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Cookie Monster
+Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Developed @ One Month in NYC 
+
+*/
+
+body {
+	background: url('https://backseatdirectors.com/wp-content/uploads/2020/09/mulan_2020_cam_chieu_7_VOEA-1024x536.jpg');
+	/* the follow is the code to have the image display as a full page */
+	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover; /* the next 3 lines are "browser prefixes", they are necessary to include for CSS3 techniques */
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#container{
+	color: white;
+	width: 450px;
+	padding: 40px;
+	height: 550px;
+	border-radius: 70px;
+}
+img {
+	max-width: 40px;
+	max-height: 40px;
+}
+h1 {
+	font-size: 65px;
+	font-style: ;
+}
+h2 {
+	color: black;
+	background: red;
+	border-radius: 6px;
+}
+p {
+	text-decoration: none;
+}
+.click {
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+}
+.made-at {
+	text-decoration: none;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
